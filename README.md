@@ -40,20 +40,24 @@ Beshta analog bilan ekspert taqqoslashida **35 balldan 30 ball — 1-o‘rin**.
 
 1. **[bayon-ai.apk](https://github.com/MSoqiy/bayon-ai/raw/main/apk/bayon-ai.apk)** faylini yuklab oling (APK papkasi — [apk/](https://github.com/MSoqiy/bayon-ai/tree/main/apk)).
 2. Faylni oching; telefon so‘rasa, «Noma'lum manbalardan o‘rnatish»ga ruxsat bering.
-3. «O‘rnatish»ni bosing. Birinchi ishga tushirishda ovoz modellari yuklanadi, keyin ilova internetsiz ishlaydi.
+3. «O‘rnatish»ni bosing.
 
 ## Ekranlar
 
+<div align="center">
+
 <img src="screenshots/bayon-ai-2.png" alt="Bayon AI — O‘qish texnikasi · Matnni tushunish" width="100%">
+
+</div>
 
 ## English
 
-**Bayon AI** — AI reading coach that listens to children reading aloud in Uzbek and scores fluency and retelling. Free, ad-free, works offline. Part of the *Aqlli o‘yin — bilimli avlod* (Smart games — knowledgeable generation) collection of Uzbek educational apps.
+**Bayon AI** — AI reading coach that listens to children reading aloud in Uzbek and scores fluency and retelling. Free, ad-free. Part of the «Ta'limiy o‘yinlar» collection by Mamasaidov M.A..
 
 ---
 
-**Muallif:** Mamasaidov M.A. — Toshkent shahar Mirzo Ulug‘bek markazi o‘qituvchisi · Tetrasoft · ✉ soqiy65@gmail.com · 🌐 https://msoqiy.github.io
+**Muallif:** Mamasaidov M.A. — Toshkent shahar Mirzo Ulug‘bek markazi o‘qituvchisi · Tetrasoft · ✉ soqiy65@gmail.com · 🌐 https://msoqiy.github.io · «[Ta'limiy o‘yinlar](https://msoqiy.github.io/oyinlar/)»
 
-**Boshqa ilovalar:** [Otin buvi](https://github.com/MSoqiy/otin-buvi) · [Donish bobo](https://github.com/MSoqiy/donish-bobo) · [Tilbilgich En AI](https://github.com/MSoqiy/tilbilgich-en) · [Tilbilgich Fr AI](https://github.com/MSoqiy/tilbilgich-fr) · [Tilbilgich De AI](https://github.com/MSoqiy/tilbilgich-de) · [Tilbilgich Ar AI](https://github.com/MSoqiy/tilbilgich-ar) · [Aljabr](https://github.com/MSoqiy/aljabr) · [GeoSayyoh](https://github.com/MSoqiy/geosayyoh)
+**Boshqa ilovalar:** [Otin buvi](https://github.com/MSoqiy/otin-buvi) · [Donish bobo](https://github.com/MSoqiy/donish-bobo) · [Tilbilgich En AI](https://github.com/MSoqiy/tilbilgich-en) · [Tilbilgich Fr AI](https://github.com/MSoqiy/tilbilgich-fr) · [Tilbilgich De AI](https://github.com/MSoqiy/tilbilgich-de) · [Tilbilgich Ar AI](https://github.com/MSoqiy/tilbilgich-ar) · [Aljabr](https://github.com/MSoqiy/aljabr) · [GeoSayyoh](https://github.com/MSoqiy/geosayyoh) · [So‘zla](https://github.com/MSoqiy/sozla)
 
-<sub>Kalit so‘zlar: o‘qish texnikasi, o‘qishni o‘rganish, ertaklar bolalar uchun, matnni tushunish, o‘zbekcha sun'iy intellekt, Read Along o‘zbekcha, 1-sinf o‘qish, техника чтения на узбекском, чтение для первоклассников с ИИ, o‘zbekcha ta'limiy o‘yin, bolalar uchun ilova, android apk</sub>
+<sub>Kalit so‘zlar: o‘qish texnikasi, o‘qishni o‘rganish, ertaklar bolalar uchun, matnni tushunish, o‘zbekcha sun'iy intellekt, Read Along o‘zbekcha, 1-sinf o‘qish, техника чтения на узбекском, чтение для первоклассников с ИИ, o‘zbekcha ta'limiy o‘yin, android apk</sub>
